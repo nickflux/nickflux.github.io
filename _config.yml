@@ -1,0 +1,13 @@
+markdown: maruku
+pygments: true
+permalink: /posts/:title
+auto: true
+rdiscount:
+  extensions: [smart]
+
+name: Nick Reavill
+url: http://fluxequalsrad.com
+description: It sounds like it might mean something, but it does not
+twitter: nreavill
+github: nickflux
+gravatar_url: http://www.gravatar.com/avatar/6bd3ebb6c10d1d49633c3f72aa671bb5.png
